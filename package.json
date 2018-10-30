@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/s208082000/ReactTest/issues"
   },
-  "homepage": "https://github.com/s208082000/ReactTest#readme"
+  "homepage": "https://github.com/s208082000/ReactTest#readme",
+  "devDependencies": {}
 }
